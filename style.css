@@ -38,7 +38,7 @@ header div {
 }
 
 header div:hover {
-    transform: scale(1.1);
+    transform: scale(1.1)
 }
 
 header div img {
@@ -53,18 +53,16 @@ main * {
 */
 
 main {
-    max-width: 680px;
+    max-width: 580px;
     width: 90%;
     margin: 32px auto;
     display: grid;
     gap: 24px;  /* o espaço entre as caixas */
-
-    margin-top: 32px;
 }
 
 section {
     color: white;
-    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 100%);
+    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad #e2d45c 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
